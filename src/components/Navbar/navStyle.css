@@ -1,0 +1,33 @@
+.nav1 {
+    display: flex;
+    background-color: black;
+    padding: 10px;
+
+    
+    
+}
+
+.logo {
+    display: flex;
+    font-size: 20px;
+    justify-content: left;
+    color: white;
+}
+
+
+.nav2 {
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    justify-content: right;
+    position: relative;
+    left: 600px;
+    color: #61dafb;
+}
+
+a {
+    color: #61dafb;
+    text-decoration: none;
+    font: bold;
+    
+}
